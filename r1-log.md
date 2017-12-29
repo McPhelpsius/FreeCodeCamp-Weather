@@ -6,5 +6,6 @@ The log of my #100DaysOfCode challenge. Started on December 28, 2017.
 
 ### R1D1 
 Exercism Elm Hello World and Bob
+Bob is unfinished
 
 ### R1D2
