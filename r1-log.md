@@ -9,3 +9,6 @@ Exercism Elm Hello World and Bob
 Bob is unfinished
 
 ### R1D2
+Worked more on Exercism Bob.
+Moved backward to get basic tests to pass
+Something with errors in the test script
