@@ -12,3 +12,15 @@ Bob is unfinished
 Worked more on Exercism Bob.
 Moved backward to get basic tests to pass
 Something with errors in the test script
+
+### R1D3
+(Forgot to push up)
+Worked more on Exercism Bob.
+Learned more functions for string validation
+Looked deeper into text criteria
+Getting errors on test comman that don't make sense
+(Not just tests not passing. Like I can't run the tests at get proper feedback)
+
+### R1D4
+Bob Exercism test errors things are bothering me
+I split my time between that and FreeCodeCamp Front End
