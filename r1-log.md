@@ -24,3 +24,9 @@ Getting errors on test comman that don't make sense
 ### R1D4
 Bob Exercism test errors things are bothering me
 I split my time between that and FreeCodeCamp Front End
+
+### R1R5
+Some FCC exercises
+Begin Random Quote Generator Project
+Include and tinker with Webpack Starter Kit
+Native Fetch Documentation
