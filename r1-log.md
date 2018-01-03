@@ -1,4 +1,5 @@
-# #100DaysOfCode Log - Round 1 - Nathan "McPhelpsius" Phelps
+# #100DaysOfCode Log
+# Round 1 - Nathan "McPhelpsius" Phelps
 
 The log of my #100DaysOfCode challenge. Started on December 28, 2017.
 
@@ -30,3 +31,10 @@ Some FCC exercises
 Begin Random Quote Generator Project
 Include and tinker with Webpack Starter Kit
 Native Fetch Documentation
+
+### R1D6
+Fun with native fetch API
+Random Quote of the Day from Free Code Camp
+ - My Code lives here: https://github.com/McPhelpsius/FreeCodeCamp-Quote-Generator
+Picked a quote API after have some Network errors on the one I want
+Webpack Starter Kit is a tad too Pugly, so I knocked out a template
