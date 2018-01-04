@@ -38,3 +38,9 @@ Random Quote of the Day from Free Code Camp
  - My Code lives here: https://github.com/McPhelpsius/FreeCodeCamp-Quote-Generator
 Picked a quote API after have some Network errors on the one I want
 Webpack Starter Kit is a tad too Pugly, so I knocked out a template
+
+### R1D7
+Random Quote Generator has a better Quote API that is more than Quote of the Day
+Tweeting is easy
+Facebook API is frustrating and not loading the SDK
+
