@@ -44,3 +44,8 @@ Random Quote Generator has a better Quote API that is more than Quote of the Day
 Tweeting is easy
 Facebook API is frustrating and not loading the SDK
 
+### R1D7
+Random Quote Generator Facebook API
+Tried some different ways to share to Facebook
+Facebook API is frustrating and not loading the SDK
+App Domain something something
