@@ -55,3 +55,9 @@ Random Quote Generator Facebook API
 Tried some different ways to share to Facebook
 Firefox was blocking my facebook SDK from loading
 Can popup a share modal prepopulated with quote
+
+###R1D10
+Resume challenge, haven't pushed or tweeted in a few days
+Create Workspace for FreeCodeCamp weather
+Pulling weather using native fetch
+Currently displaying Location Name, Temperature and icon unstyled
