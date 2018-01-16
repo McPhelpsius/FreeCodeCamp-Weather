@@ -65,3 +65,9 @@ Currently displaying Location Name, Temperature and icon unstyled
 ### R1D11
 Changed weather API to Wunderground because I like it better
 Use Google Geocoder API to find ZIP of current Lat/Long
+
+### R1D12
+Not a quitter
+Came back and refactored some JS into smaller functions
+Format some data
+Experiement, fail, adapt
