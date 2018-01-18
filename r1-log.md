@@ -74,3 +74,7 @@ Experiement, fail, adapt
 
 ### R1D13
 Scotch.io react and graphql chat
+
+###R1D14
+More Scotch.io graphql and react
+Read through Apollo docs
