@@ -78,3 +78,8 @@ Scotch.io react and graphql chat
 ###R1D14
 More Scotch.io graphql and react
 Read through Apollo docs
+
+###R1D15 & D16
+Slow going 100 days
+More Scotch.io graphql and react
+App works, but with a bug of not showing new message
