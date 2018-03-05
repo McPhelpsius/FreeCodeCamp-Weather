@@ -87,3 +87,9 @@ App works, but with a bug of not showing new messag
 ###R1D17
 Debugging scotch graphql and apollo chat app
 Done
+
+###R1D18ish
+House searching in this market is whack, so it's been a while
+Also, I haven't committed or posted everytime, so maybe this is like 21
+Whatever. Judge me. Come at me.
+First commit for recreating an old maps scavengger hunt web app
